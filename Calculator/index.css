@@ -1,0 +1,61 @@
+html {
+  font-size: 100%;
+}
+body {
+  background-color: black;
+}
+.First,
+.Second,
+.Third,
+.Fourth,
+.Fifth {
+  display: flex;
+  justify-content: center;
+  gap: 1em;
+  margin-top: 1em;
+}
+button {
+  border-radius: 50%;
+  width: 5em;
+  height: 5em;
+  background-color: rgba(47, 43, 43, 0.394);
+  color: white;
+  border: 1em black;
+  font-size: medium;
+  font-weight: bold;
+}
+#orange {
+  background-color: rgb(234, 119, 11);
+}
+#Zero {
+  width: 12em;
+  border-radius: 20em;
+}
+#black {
+  color: black;
+  background-color: rgb(136, 133, 133);
+}
+#output {
+  font-size: 30px;
+  font-weight: bold;
+  padding: 10px;
+  text-align: right;
+  height: 40px;
+  width: 377px;
+  background-color: black;
+  color: white;
+  margin-bottom: 10px;
+}
+h1 {
+  text-align: right;
+  padding: 10px;
+}
+.butt {
+  margin-top: 2em;
+  border: 2px solid white;
+  width: 400px;
+  height: 565px;
+}
+.box {
+  margin-left: 420px;
+}
